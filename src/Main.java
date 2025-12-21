@@ -62,8 +62,6 @@ public class Student{
         credits = 0;
     }
 
-
-
     public String getName(){
         return this.name;
     }
