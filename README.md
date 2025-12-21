@@ -8,7 +8,7 @@
   * javac *.java
   * java Main
 * D Screenshots
-  * ![Uploading image.png…]()
+  * <img width="821" height="517" alt="image" src="https://github.com/user-attachments/assets/8f485fe7-114b-4b75-a670-a9a08bcb3923" />
 * E Reflection Section
   * I may have learned something, but I can't find out what it is.
   * I didn't have any difficulties.
