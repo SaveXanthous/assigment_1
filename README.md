@@ -1,11 +1,12 @@
 * A Project Overview
-    * The purpose of classes and programs is to meet the assignment 1 requirement
-  * My whole life has been striving for something. It's just a stepping stone. This step touches too deeply on the past, since java was studied when I wasn't even in high school. I completed the assignment with my experience
+  * The purpose of classes and programs is to meet the assignment 1 requirement
+  * During the two weeks of training, I learned something new.
 * B Descriptions
   * The class fields, constructor, and methods of Student, Course class are all described in assignment 1.
+  * https://github.com/SaveXanthous/assigment_1/blob/master/document/Assignment%201.pdf
   * The Course class is related to the Student class
 * C Instructions to Compile and Run
-  * javac *.java
+  * javac Main.java
   * java Main
 * D Screenshots
   * <img width="821" height="517" alt="image" src="https://github.com/user-attachments/assets/8f485fe7-114b-4b75-a670-a9a08bcb3923" />
